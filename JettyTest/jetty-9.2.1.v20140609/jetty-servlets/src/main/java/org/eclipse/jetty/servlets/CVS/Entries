@@ -1,0 +1,18 @@
+/AsyncGzipFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/CGI.java/1.1/Mon Jun  9 06:37:48 2014//
+/CloseableDoSFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/ConcatServlet.java/1.1/Mon Jun  9 06:37:48 2014//
+/CrossOriginFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/DataRateLimitedServlet.java/1.1/Mon Jun  9 06:37:48 2014//
+/DoSFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/EventSource.java/1.1/Mon Jun  9 06:37:48 2014//
+/EventSourceServlet.java/1.1/Mon Jun  9 06:37:48 2014//
+/GzipFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/IncludableGzipFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/MultiPartFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/PutFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/QoSFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/UserAgentFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+/WelcomeFilter.java/1.1/Mon Jun  9 06:37:48 2014//
+D/gzip////
+/package-info.java/1.1/Mon Jun  9 06:37:48 2014//

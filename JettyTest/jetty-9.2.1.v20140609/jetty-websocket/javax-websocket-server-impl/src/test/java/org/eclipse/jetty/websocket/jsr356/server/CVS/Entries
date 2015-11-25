@@ -1,0 +1,33 @@
+/AnnotatedServerEndpointTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicEndpointTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/BinaryStreamTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ConfiguratorTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/DummyConnection.java/1.1/Mon Jun  9 06:37:48 2014//
+/DummyCreator.java/1.1/Mon Jun  9 06:37:48 2014//
+/EchoCase.java/1.1/Mon Jun  9 06:37:48 2014//
+/EchoClientSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/EchoTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ExtensionStackProcessingTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/IdleTimeoutTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/JettyEchoSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/JettyServerEndpointConfiguratorTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrBatchModeTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/LargeAnnotatedTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/LargeContainerTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/MemoryUsageTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/OnMessageReturnTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/OnPartialTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/PingPongTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ServerAnnotatedEndpointScanner_GoodSignaturesTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ServerAnnotatedEndpointScanner_InvalidSignaturesTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/SessionAltConfig.java/1.1/Mon Jun  9 06:37:48 2014//
+/SessionInfoEndpoint.java/1.1/Mon Jun  9 06:37:48 2014//
+/SessionInfoSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/SessionTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/StreamTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/TextStreamTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/TrackingSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/WSServer.java/1.1/Mon Jun  9 06:37:48 2014//
+D/browser////
+D/pathmap////
+D/samples////

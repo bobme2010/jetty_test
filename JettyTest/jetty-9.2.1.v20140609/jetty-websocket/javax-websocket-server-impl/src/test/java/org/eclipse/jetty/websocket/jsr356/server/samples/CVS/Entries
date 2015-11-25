@@ -1,0 +1,32 @@
+/BasicBinaryMessageByteBufferSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicCloseReasonSessionSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicCloseReasonSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicCloseSessionReasonSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicCloseSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicErrorSessionSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicErrorSessionThrowableSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicErrorSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicErrorThrowableSessionSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicErrorThrowableSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicOpenCloseSessionSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicOpenCloseSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicOpenSessionSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicOpenSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicPongMessageSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicTextMessageStringSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/InvalidCloseIntSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/InvalidErrorErrorSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/InvalidErrorExceptionSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/InvalidErrorIntSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/InvalidOpenCloseReasonSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/InvalidOpenIntSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/InvalidOpenSessionIntSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/StatelessTextMessageStringSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+D/beans////
+D/binary////
+D/echo////
+D/idletimeout////
+D/partial////
+D/pong////
+D/primitives////
+D/streaming////

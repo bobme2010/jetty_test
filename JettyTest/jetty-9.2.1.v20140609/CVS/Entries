@@ -1,0 +1,59 @@
+/.gitattributes/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/.gitignore/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/LICENSE/1.1/Mon Jun  9 06:37:48 2014/-kb/
+D/LICENSE-CONTRIBUTOR////
+/LICENSE-eplv10-aslv20.html/1.1/Mon Jun  9 06:37:48 2014//
+/NOTICE.txt/1.1/Mon Jun  9 06:37:48 2014//
+/README.TXT/1.1/Mon Jun  9 06:37:48 2014//
+/README.md/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/VERSION.txt/1.1/Mon Jun  9 06:37:48 2014//
+D/aggregates////
+D/apache-jsp////
+D/apache-jstl////
+D/dists////
+D/examples////
+/header-template.txt/1.1/Mon Jun  9 06:37:48 2014//
+/icon.jpg/1.1/Mon Jun  9 06:37:48 2014/-kb/
+D/jetty-alpn////
+D/jetty-annotations////
+D/jetty-ant////
+D/jetty-client////
+D/jetty-continuation////
+D/jetty-deploy////
+D/jetty-distribution////
+D/jetty-fcgi////
+D/jetty-http////
+D/jetty-http-spi////
+D/jetty-io////
+D/jetty-jaas////
+D/jetty-jaspi////
+D/jetty-jmx////
+D/jetty-jndi////
+D/jetty-jsp////
+D/jetty-jspc-maven-plugin////
+D/jetty-maven-plugin////
+D/jetty-monitor////
+D/jetty-nosql////
+D/jetty-osgi////
+D/jetty-overlay-deployer////
+D/jetty-plus////
+D/jetty-proxy////
+D/jetty-quickstart////
+D/jetty-rewrite////
+D/jetty-rhttp////
+D/jetty-runner////
+D/jetty-security////
+D/jetty-server////
+D/jetty-servlet////
+D/jetty-servlets////
+D/jetty-spdy////
+D/jetty-spring////
+D/jetty-start////
+D/jetty-util////
+D/jetty-util-ajax////
+D/jetty-webapp////
+D/jetty-websocket////
+D/jetty-xml////
+/pom.xml/1.1/Mon Jun  9 06:37:48 2014//
+/settings.xml/1.1/Mon Jun  9 06:37:48 2014//
+D/tests////

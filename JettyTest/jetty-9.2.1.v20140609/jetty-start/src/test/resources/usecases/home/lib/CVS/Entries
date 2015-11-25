@@ -1,0 +1,31 @@
+D/annotations////
+D/ext////
+/jetty-annotations-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-client-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-continuation-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-deploy-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-http-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-io-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-jaas-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-jmx-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-jndi-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-jsp-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-plus-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-proxy-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-rewrite-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-schemas-3.1.RC0.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-schemas-3.1.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-security-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-server-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-servlet-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-servlets-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-util-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-webapp-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+/jetty-xml-TEST.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+D/jndi////
+D/jsp////
+D/monitor////
+/servlet-api-3.1.jar/1.1/Mon Jun  9 06:37:48 2014/-kb/
+D/setuid////
+D/spdy////
+D/websocket////

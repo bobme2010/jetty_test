@@ -1,0 +1,29 @@
+/AbstractJsrRemote.java/1.1/Mon Jun  9 06:37:48 2014//
+/BasicEndpointConfig.java/1.1/Mon Jun  9 06:37:48 2014//
+/ClientContainer.java/1.1/Mon Jun  9 06:37:48 2014//
+/Configurable.java/1.1/Mon Jun  9 06:37:48 2014//
+/ConfigurationException.java/1.1/Mon Jun  9 06:37:48 2014//
+/DecoderFactory.java/1.1/Mon Jun  9 06:37:48 2014//
+/EncoderFactory.java/1.1/Mon Jun  9 06:37:48 2014//
+/InitException.java/1.1/Mon Jun  9 06:37:48 2014//
+/JettyClientContainerProvider.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrAsyncRemote.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrBasicRemote.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrExtension.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrExtensionConfig.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrHandshakeResponse.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrPongMessage.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrSession.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrSessionFactory.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrUpgradeListener.java/1.1/Mon Jun  9 06:37:48 2014//
+/MessageHandlerFactory.java/1.1/Mon Jun  9 06:37:48 2014//
+/MessageHandlerWrapper.java/1.1/Mon Jun  9 06:37:48 2014//
+/MessageType.java/1.1/Mon Jun  9 06:37:48 2014//
+D/annotations////
+D/client////
+D/decoders////
+D/encoders////
+D/endpoints////
+D/messages////
+D/metadata////
+D/utils////

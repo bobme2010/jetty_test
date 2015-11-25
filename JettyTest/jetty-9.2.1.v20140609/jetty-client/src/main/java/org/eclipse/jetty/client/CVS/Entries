@@ -1,0 +1,42 @@
+/AbstractHttpClientTransport.java/1.1/Mon Jun  9 06:37:48 2014//
+/AsyncContentProvider.java/1.1/Mon Jun  9 06:37:48 2014//
+/AuthenticationProtocolHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+/ConnectionPool.java/1.1/Mon Jun  9 06:37:48 2014//
+/ContentDecoder.java/1.1/Mon Jun  9 06:37:48 2014//
+/ContinueProtocolHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+/GZIPContentDecoder.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpAuthenticationStore.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpChannel.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClient.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientTransport.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpConnection.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpContent.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpContentResponse.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpConversation.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpDestination.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpExchange.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpProxy.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpReceiver.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpRedirector.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpRequest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpRequestException.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpResponse.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpResponseException.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpSender.java/1.1/Mon Jun  9 06:37:48 2014//
+/LeakTrackingConnectionPool.java/1.1/Mon Jun  9 06:37:48 2014//
+/MultiplexHttpDestination.java/1.1/Mon Jun  9 06:37:48 2014//
+/Origin.java/1.1/Mon Jun  9 06:37:48 2014//
+/PoolingHttpDestination.java/1.1/Mon Jun  9 06:37:48 2014//
+/ProtocolHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+/ProxyAuthenticationProtocolHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+/ProxyConfiguration.java/1.1/Mon Jun  9 06:37:48 2014//
+/RedirectProtocolHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+/RequestNotifier.java/1.1/Mon Jun  9 06:37:48 2014//
+/ResponseNotifier.java/1.1/Mon Jun  9 06:37:48 2014//
+/Socks4Proxy.java/1.1/Mon Jun  9 06:37:48 2014//
+/TimeoutCompleteListener.java/1.1/Mon Jun  9 06:37:48 2014//
+/WWWAuthenticationProtocolHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+D/api////
+D/http////
+/package-info.java/1.1/Mon Jun  9 06:37:48 2014//
+D/util////

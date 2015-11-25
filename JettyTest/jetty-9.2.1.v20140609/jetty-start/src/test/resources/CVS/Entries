@@ -1,0 +1,12 @@
+/assert-home-with-jvm.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-home-with-spaces.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-home.txt/1.1/Mon Jun  9 06:37:48 2014//
+D/bad-libs////
+/bogus.xml/1.1/Mon Jun  9 06:37:48 2014//
+D/empty.home////
+D/extra-jetty-dirs////
+D/extra-libs////
+D/extra-resources////
+D/hb.1////
+D/jetty home with spaces////
+D/usecases////

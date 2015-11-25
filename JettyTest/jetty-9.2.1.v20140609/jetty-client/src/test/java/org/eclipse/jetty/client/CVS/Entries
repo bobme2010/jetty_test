@@ -1,0 +1,28 @@
+/AbstractHttpClientServerTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ContentResponseTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/EmptyServerHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+/ExternalSiteTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/GZIPContentDecoderTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HostnameVerificationTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientAsyncContentTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientAuthenticationTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientContinueTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientCustomProxyTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientExplicitConnectionTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientLoadTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientProxyTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientRedirectTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientStreamTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientSynchronizationTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientTimeoutTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpClientURITest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpConnectionLifecycleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpCookieTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpRequestAbortTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HttpResponseAbortTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ProxyConfigurationTest.java/1.1/Mon Jun  9 06:37:48 2014//
+D/api////
+D/http////
+D/ssl////
+D/util////

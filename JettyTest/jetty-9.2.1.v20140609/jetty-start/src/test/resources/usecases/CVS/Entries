@@ -1,0 +1,24 @@
+/assert-barebones.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-enable-spdy-bad-npn-version.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-enable-spdy.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-include-jetty-dir-logging.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-jmx.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-logging.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-missing-npn-version.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-props.agent.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-props.basic.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-with-db.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-with-module-persistence.txt/1.1/Mon Jun  9 06:37:48 2014//
+/assert-with.ext.txt/1.1/Mon Jun  9 06:37:48 2014//
+D/base.barebones////
+D/base.enable.spdy////
+D/base.enable.spdy.bad.npn.version////
+D/base.jmx////
+D/base.logging////
+D/base.missing.npn.version////
+D/base.props.agent////
+D/base.props.basic////
+D/base.with.db////
+D/base.with.ext////
+D/base.with.include.jetty.dirs////
+D/home////

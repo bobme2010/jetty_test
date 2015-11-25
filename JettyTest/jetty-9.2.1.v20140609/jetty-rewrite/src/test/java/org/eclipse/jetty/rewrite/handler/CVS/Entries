@@ -1,0 +1,16 @@
+/AbstractRuleTestCase.java/1.1/Mon Jun  9 06:37:48 2014//
+/CookiePatternRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ForwardedSchemeHeaderRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/HeaderPatternRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/LegacyRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/MsieSslRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/PatternRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/RedirectPatternRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/RedirectRegexRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/RegexRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ResponsePatternRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/RewriteHandlerTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/RewritePatternRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/RewriteRegexRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/ValidUrlRuleTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/VirtualHostRuleContainerTest.java/1.1/Mon Jun  9 06:37:48 2014//

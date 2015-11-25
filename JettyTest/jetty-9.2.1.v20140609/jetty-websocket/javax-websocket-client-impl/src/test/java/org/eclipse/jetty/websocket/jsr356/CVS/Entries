@@ -1,0 +1,29 @@
+/AnnotatedEchoClient.java/1.1/Mon Jun  9 06:37:48 2014//
+/AnnotatedEchoTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/AnnotatedEndpointClient.java/1.1/Mon Jun  9 06:37:48 2014//
+/AnnotatedEndpointConfigTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/AnnotatedEndpointConfigurator.java/1.1/Mon Jun  9 06:37:48 2014//
+/ConfiguratorTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/CookiesTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/DecoderFactoryTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/DecoderReaderManySmallTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/DecoderReaderTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/EchoCaptureHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+/EchoHandler.java/1.1/Mon Jun  9 06:37:48 2014//
+/EncoderFactoryTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/EncoderTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/EndpointEchoClient.java/1.1/Mon Jun  9 06:37:48 2014//
+/EndpointEchoTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/JettyEchoSocket.java/1.1/Mon Jun  9 06:37:48 2014//
+/JsrSessionTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/MessageHandlerFactoryTest.java/1.1/Mon Jun  9 06:37:48 2014//
+/MessageQueue.java/1.1/Mon Jun  9 06:37:48 2014//
+D/annotations////
+D/decoders////
+D/demo////
+D/encoders////
+D/endpoints////
+D/handlers////
+D/metadata////
+D/samples////
+D/utils////
